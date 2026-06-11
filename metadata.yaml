@@ -2,5 +2,5 @@
 homepage: "https://cookiekompas.nl"
 documentation: "https://cookiekompas.nl/docs/gtm"
 versions:
-  - sha: 92d8615244158dfb0cbd59fed207dbde061a7f78
+  - sha: e7edf0f0740b0f03f6278d32c539386082515087
     changeNotes: Initiele publieke release - zet Google Consent Mode v2-defaults en laadt de CookieKompas-banner.

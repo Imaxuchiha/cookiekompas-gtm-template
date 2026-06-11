@@ -1,0 +1,10 @@
+# GTM Community Template Gallery metadata.
+#
+# When you publish via GTM's "Add to Community Gallery" flow, GTM generates and
+# commits this file for you. This is a reference/sample — if you create it by
+# hand, replace `homepage` with your public template repo and fill `sha` with the
+# commit hash that contains the matching template.tpl.
+homepage: https://github.com/Imaxuchiha/cookiekompas-gtm-template
+versions:
+  - sha: REPLACE_WITH_COMMIT_SHA
+    changeNotes: Initial public release — sets Google Consent Mode v2 defaults and loads the CookieKompas banner.

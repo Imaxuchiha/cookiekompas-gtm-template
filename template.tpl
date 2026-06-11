@@ -6,7 +6,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "CookieKompas — Google Consent Mode v2",
-  "categories": ["UTILITY", "PRIVACY"],
+  "categories": ["UTILITY", "TAG_MANAGEMENT"],
   "brand": {
     "id": "cookiekompas",
     "displayName": "CookieKompas"
